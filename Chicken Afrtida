@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Recipe</title>
+</head>
+<body>
+
+    <h1><strong>CHICKEN AFRITADA</strong></h1>
+
+    <img src="images/humba.jpg" width="700">
+    <h3><em>Description</em></h3>
+    <p>
+        <a href="https://panlasangpinoy.com/filipino-food-pork-humba-recipe/" target="_blank" rel="noreferrer">Pork humba</a> 
+        is a popular Filipino braised pork dish from the Visayas region that features fatty cuts of pork—such as pork belly or 
+        pork hocks—slow-cooked until melt-in-your-mouth tender.
+    </p>
+
+    <h2>Ingredients</h2>
+      <ul>
+
+        <li>Pork belly</li>  
+        <li>Pineapple juice</li> 
+        <li>Salt</li>   
+        <li>Soy Sauce</li>  
+        <li>Black Beans</li> 
+        <li>Pineapple Chunks</li>  
+        <li>Onion</li>   
+        <li>Vinegar</li>
+        <li>Garlic</li>
+        <li>Brown Sugar</li>
+        <li>Peppercorn</li>
+
+      </ul>
+
+
+      <h2>Steps to Cook Mouth Watering Pork Humba</h2>
+
+       <ol>
+
+        <li>Cut 1 kilogram of pork belly into serving-size pieces. Heat a pot over 
+            medium-high heat and brown the pork in its own fat until lightly golden. 
+            This gives the humba a richer flavor.</li>
+        
+        <li>Add 1 chopped onion and 5 cloves of minced garlic. Cook for 2–3 minutes, until fragrant.</li>
+
+        <li>Pour in ½ cup soy sauce, ¼ cup vinegar, ½ cup brown sugar, and 2 cups water. Add 2 bay leaves and 1 teaspoon whole peppercorns. 
+            Do not stir immediately after adding the vinegar; let it boil first for about 2 minutes.</li>
+
+        <li>Lower the heat, cover the pot, and simmer for 1 to 1½ hours. Stir occasionally and add a little water if the sauce becomes too dry. 
+            Cook until the pork is very tender.</li>
+
+        <li>Add 1 small can of pineapple chunks with a little of its juice, ½ cup banana blossoms, and ¼ cup salted black beans. Simmer for another 
+            15–20 minutes.</li>
+        
+        <li>Taste the sauce. Add more brown sugar for sweetness, soy sauce for saltiness, or a small amount of vinegar for more tang.</li>
+
+        <li>Continue cooking uncovered for a few minutes until the sauce becomes thick, glossy, and coats the pork. Serve hot with steamed rice.</li>
+
+
+
+
+
+
+       </ol>
+
+    <p><a href="index.html"><em>Back to Home</em></a></p>
+
+    
+    
+</body>
+</html>
