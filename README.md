@@ -7,3 +7,6 @@ Pork Humba
 
 Chicken Afritada
 *Photo From [Kate Hopkins] (https://live.staticflickr.com/4568/38757742052_68f9acee4c_b.jpg) - Public Domain.*
+
+Spicy Bicol Express
+*Photo From [Wikimedia Commons] (https://commons.wikimedia.org/wiki/File:Bicol_Express_2%281%29.jpg) - Piblic Domain.*
